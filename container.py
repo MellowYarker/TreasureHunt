@@ -1,9 +1,5 @@
-"""Assignment 1 - Container and priority queue
-
+"""
 This module contains the Container and PriorityQueue classes.
-
-Your only task here is to implement the add method for PriorityQueue,
-according to its docstring.
 """
 
 
