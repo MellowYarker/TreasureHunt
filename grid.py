@@ -1,10 +1,5 @@
-"""Assignment 1 - Node and Grid
-
+"""
 This module contains the Node and Grid classes.
-
-Your only task here is to implement the methods
-where indicated, according to their docstring.
-Also complete the missing doctests.
 """
 
 import functools
