@@ -1,1 +1,1 @@
-# TreasureHunt
+For instructions, run treasurehunt.py.
